@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1780274342483,
+    "noSPT": "0001/01/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "tanggalPlan": "2026-06-01",
+    "catatan": "",
+    "kepalaTim": "auditor1",
+    "cabangPlan": "SO TPP",
+    "cabangArea": "ACEH",
+    "timAudit": [
+      "auditor1",
+      "auditor2"
+    ],
+    "status": "selesai",
+    "createdBy": "admin",
+    "createdAt": "2026-06-01T00:39:02.483Z",
+    "selesaiAt": "2026-06-02T03:26:05.495Z"
+  },
+  {
+    "id": 1780322234022,
+    "noSPT": "0002/01/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "tanggalPlan": "2026-06-01",
+    "catatan": "",
+    "kepalaTim": "auditor1",
+    "cabangPlan": "CSC TBS",
+    "cabangArea": "RIAU",
+    "timAudit": [
+      "auditor1",
+      "auditor2"
+    ],
+    "status": "aktif",
+    "createdBy": "manajer1",
+    "createdAt": "2026-06-01T13:57:14.022Z"
+  },
+  {
+    "id": 1780398221398,
+    "noSPT": "0003/02/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "tanggalPlan": "2026-06-02",
+    "catatan": "",
+    "kepalaTim": "auditor1",
+    "cabangPlan": "SO BBT",
+    "cabangArea": "RIAU",
+    "timAudit": [
+      "auditor1",
+      "auditor2"
+    ],
+    "status": "selesai",
+    "createdBy": "manajer1",
+    "createdAt": "2026-06-02T11:03:41.398Z",
+    "selesaiAt": "2026-06-05T08:52:41.638Z"
+  }
+]

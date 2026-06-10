@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1780761224872,
+    "tgl": "2026-06-06",
+    "namaUnitUsaha": "SO TPP",
+    "namaPemeriksa": "Budi Santoso",
+    "jenisPerlengkapan": "Buku service ADV 160",
+    "saldo": 1,
+    "fisik": 1,
+    "selisih": 0,
+    "penjelasan": "",
+    "auditPlanId": 1780759182636,
+    "auditNoSPT": null,
+    "area": "ACEH",
+    "keterangan": "",
+    "items": [
+      {
+        "nama": "Buku service ADV 160",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": 1780761213449,
+    "tgl": "2026-06-06",
+    "namaUnitUsaha": "SO TPP",
+    "namaPemeriksa": "Budi Santoso",
+    "jenisPerlengkapan": "Baterai 3.5 Ah",
+    "saldo": 10,
+    "fisik": 10,
+    "selisih": 0,
+    "penjelasan": "",
+    "auditPlanId": 1780759182636,
+    "auditNoSPT": null,
+    "area": "ACEH",
+    "keterangan": "",
+    "items": [
+      {
+        "nama": "Baterai 3.5 Ah",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": 1780761189592,
+    "tgl": "2026-06-06",
+    "namaUnitUsaha": "SO TPP",
+    "namaPemeriksa": "Budi Santoso",
+    "jenisPerlengkapan": "Baterai 3 Ah",
+    "saldo": 10,
+    "fisik": 10,
+    "selisih": 0,
+    "penjelasan": "",
+    "auditPlanId": 1780759182636,
+    "auditNoSPT": null,
+    "area": "ACEH",
+    "keterangan": "",
+    "items": [
+      {
+        "nama": "Baterai 3 Ah",
+        "qty": 10
+      }
+    ]
+  }
+]

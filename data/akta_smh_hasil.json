@@ -1,0 +1,763 @@
+[
+  {
+    "id": 1780762003604,
+    "waktu": "2026-06-06",
+    "noMesin": "JMH1E 1088162",
+    "noRangka": "JMH111SK089741",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "admin",
+    "auditPlanId": 1780759182636,
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780761010878,
+    "waktu": "2026-06-06",
+    "noMesin": "JMH2E 1167324",
+    "noRangka": "JMH212SK166678",
+    "kodeModel": "F1C02N47L2AA/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "so01",
+    "auditPlanId": 1780759182636,
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780760997885,
+    "waktu": "2026-06-06",
+    "noMesin": "JMF2E 1346039",
+    "noRangka": "JMF219SK346745",
+    "kodeModel": "H1B02N42L1AA/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Beat",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Helm Open Face",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Kaca Spion BeAT",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "so01",
+    "auditPlanId": 1780759182636,
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780760986637,
+    "waktu": "2026-06-06",
+    "noMesin": "JMH1E 1075915",
+    "noRangka": "JMH110SK077497",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "so01",
+    "auditPlanId": 1780759182636,
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780760975290,
+    "waktu": "2026-06-06",
+    "noMesin": "JMH1E 1063734",
+    "noRangka": "JMH11XSK070430",
+    "kodeModel": "F1C02N46L2AA/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "so01",
+    "auditPlanId": 1780759182636,
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780760968677,
+    "waktu": "2026-06-06",
+    "noMesin": "KCD2E 1050099",
+    "noRangka": "KCD210SK050167",
+    "kodeModel": "A5C02R37L1A",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Buku service CB Street Fire",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Helm full face",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion CB150",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset CB150",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "so01",
+    "auditPlanId": 1780759182636,
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277943174,
+    "waktu": "2026-06-01",
+    "noMesin": "JMH1E 1072693",
+    "noRangka": "JMH116SK073261",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 0
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277929863,
+    "waktu": "2026-06-01",
+    "noMesin": "JMH1E 1088162",
+    "noRangka": "JMH111SK089741",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277782130,
+    "waktu": "2026-06-01",
+    "noMesin": "JMH1E 1074586",
+    "noRangka": "JMH116SK076161",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "POS LW",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277778175,
+    "waktu": "2026-06-01",
+    "noMesin": "JMH1E 1074566",
+    "noRangka": "JMH116SK076144",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "POS LW",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277768086,
+    "waktu": "2026-06-01",
+    "noMesin": "JMH1E 1071013",
+    "noRangka": "JMH113SK069068",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277728604,
+    "waktu": "2026-06-01",
+    "noMesin": "JMH1E 1065780",
+    "noRangka": "JMH118SK065744",
+    "kodeModel": "F1C02N46L2A/T",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "POS LW",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Buku service Scoopy",
+        "qty": 1,
+        "ada": 0
+      },
+      {
+        "nama": "Helm Retro",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion Scoopy",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset Matic",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  },
+  {
+    "id": 1780277232634,
+    "waktu": "2026-06-01",
+    "noMesin": "KCD2E 1050099",
+    "noRangka": "KCD210SK050167",
+    "kodeModel": "A5C02R37L1A",
+    "kodeWarna": "",
+    "kodeUnitUsaha": "",
+    "gudang": "SO",
+    "area": "",
+    "keteranganFisik": "Fisik Ada",
+    "statusFisik": "Ready for Sale",
+    "perlengkapan": [
+      {
+        "nama": "Baterai 5 Ah",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Buku service CB Street Fire",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Helm full face",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Jaket safety Riding",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Kaca Spion CB150",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "License Plate",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Safety tools",
+        "qty": 1,
+        "ada": 1
+      },
+      {
+        "nama": "Toolset CB150",
+        "qty": 1,
+        "ada": 1
+      }
+    ],
+    "savedBy": "auditor1",
+    "auditPlanId": 1780274342483,
+    "auditNoSPT": "0001/01/06/2026/SPT-IAT",
+    "auditCabang": "SO TPP"
+  }
+]

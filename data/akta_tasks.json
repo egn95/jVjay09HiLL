@@ -1,0 +1,579 @@
+[
+  {
+    "id": 1780274342483.8,
+    "planId": 1780274342483,
+    "noSPT": "0001/01/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "cabangPlan": "SO TPP",
+    "cabangArea": "ACEH",
+    "tanggalPlan": "2026-06-01",
+    "assignedTo": "auditor1",
+    "isKepala": true,
+    "tglMulai": "2026-06-02",
+    "tglSelesai": "2026-06-04",
+    "fileName": "daftar_nilai_AT-B Sore_xlsx.xlsx",
+    "catatan": "",
+    "status": "selesai",
+    "submittedAt": "2026-06-01T00:39:37.474Z",
+    "approvedAt": "2026-06-01T01:08:03.113Z",
+    "approvedBy": "coo1",
+    "reviewNote": "",
+    "statusLog": [
+      {
+        "status": "pending",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-01T00:39:02.483Z",
+        "note": "Task dibuat oleh manajer"
+      },
+      {
+        "status": "submitted",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T00:39:37.475Z",
+        "note": ""
+      },
+      {
+        "status": "koord_approved",
+        "by": "koordinator1",
+        "byName": "Hendra Wijaya",
+        "at": "2026-06-01T00:40:15.658Z",
+        "note": ""
+      },
+      {
+        "status": "manajer_approved",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-01T01:07:55.305Z",
+        "note": ""
+      },
+      {
+        "status": "coo_approved",
+        "by": "coo1",
+        "byName": "Ir. Susanto",
+        "at": "2026-06-01T01:08:03.113Z",
+        "note": ""
+      },
+      {
+        "status": "audit_started",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T01:09:51.057Z",
+        "note": ""
+      },
+      {
+        "status": "in_progress",
+        "by": "so01",
+        "byName": "Budi Santoso",
+        "at": "2026-06-01T01:25:12.311Z",
+        "note": ""
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T01:54:23.902Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "in_progress",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-01T02:17:53.401Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → in_progress. Alasan: gddgdgjjjj"
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T02:28:09.127Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "in_progress",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-01T02:35:58.867Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → in_progress. Alasan: dadadas"
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T02:58:20.528Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "in_progress",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-02T02:53:27.905Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → in_progress. Alasan: terjadi kesalahan pelaporan"
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-02T03:26:05.491Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      }
+    ],
+    "auditStartedAt": "2026-06-01T01:09:51.057Z",
+    "cabangStartedAt": "2026-06-01T01:25:12.311Z",
+    "selesaiAt": "2026-06-02T03:26:05.491Z",
+    "resetAt": "2026-06-02T02:53:27.905Z",
+    "resetBy": "admin",
+    "resetReason": "terjadi kesalahan pelaporan"
+  },
+  {
+    "id": 1780274342483.3728,
+    "planId": 1780274342483,
+    "noSPT": "0001/01/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "cabangPlan": "SO TPP",
+    "cabangArea": "ACEH",
+    "tanggalPlan": "2026-06-01",
+    "assignedTo": "auditor2",
+    "isKepala": false,
+    "tglMulai": "",
+    "tglSelesai": "",
+    "fileName": "",
+    "catatan": "",
+    "status": "pending",
+    "submittedAt": "",
+    "approvedAt": "",
+    "approvedBy": "",
+    "reviewNote": "",
+    "statusLog": [
+      {
+        "status": "pending",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-01T00:39:02.483Z",
+        "note": "Task dibuat oleh manajer"
+      }
+    ]
+  },
+  {
+    "id": 1780322234022.4795,
+    "planId": 1780322234022,
+    "noSPT": "0002/01/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "cabangPlan": "CSC TBS",
+    "cabangArea": "RIAU",
+    "tanggalPlan": "2026-06-01",
+    "assignedTo": "auditor1",
+    "isKepala": true,
+    "tglMulai": "2026-06-02",
+    "tglSelesai": "2026-06-05",
+    "fileName": "template_nilai_AT-A Sore_xlsx (1).xlsx",
+    "catatan": "",
+    "status": "in_progress",
+    "submittedAt": "2026-06-01T13:58:00.408Z",
+    "approvedAt": "2026-06-01T13:59:58.176Z",
+    "approvedBy": "coo1",
+    "reviewNote": "",
+    "statusLog": [
+      {
+        "status": "pending",
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "at": "2026-06-01T13:57:14.022Z",
+        "note": "Task dibuat oleh manajer"
+      },
+      {
+        "status": "submitted",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T13:58:00.408Z",
+        "note": ""
+      },
+      {
+        "status": "koord_approved",
+        "by": "koordinator1",
+        "byName": "Hendra Wijaya",
+        "at": "2026-06-01T13:58:18.159Z",
+        "note": ""
+      },
+      {
+        "status": "manajer_approved",
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "at": "2026-06-01T13:59:46.243Z",
+        "note": ""
+      },
+      {
+        "status": "coo_approved",
+        "by": "coo1",
+        "byName": "Ir. Susanto",
+        "at": "2026-06-01T13:59:58.176Z",
+        "note": ""
+      },
+      {
+        "status": "audit_started",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T14:00:10.684Z",
+        "note": ""
+      },
+      {
+        "status": "in_progress",
+        "by": "csc01",
+        "byName": "Dewi Kusuma",
+        "at": "2026-06-01T14:03:55.443Z",
+        "note": ""
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-01T15:45:48.067Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "in_progress",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-01T15:46:57.979Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → in_progress. Alasan: csfsfs"
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-02T08:44:12.705Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "in_progress",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-02T09:06:22.887Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → in_progress. Alasan: kesalahan pica"
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-02T10:43:34.054Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "in_progress",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-05T09:08:24.933Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → in_progress. Alasan: adanya kesalahan"
+      }
+    ],
+    "auditStartedAt": "2026-06-01T14:00:10.684Z",
+    "cabangStartedAt": "2026-06-01T14:03:55.443Z",
+    "selesaiAt": "2026-06-02T10:43:34.054Z",
+    "resetAt": "2026-06-05T09:08:24.933Z",
+    "resetBy": "admin",
+    "resetReason": "adanya kesalahan"
+  },
+  {
+    "id": 1780322234022.1965,
+    "planId": 1780322234022,
+    "noSPT": "0002/01/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "cabangPlan": "CSC TBS",
+    "cabangArea": "RIAU",
+    "tanggalPlan": "2026-06-01",
+    "assignedTo": "auditor2",
+    "isKepala": false,
+    "tglMulai": "",
+    "tglSelesai": "",
+    "fileName": "",
+    "catatan": "",
+    "status": "pending",
+    "submittedAt": "",
+    "approvedAt": "",
+    "approvedBy": "",
+    "reviewNote": "",
+    "statusLog": [
+      {
+        "status": "pending",
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "at": "2026-06-01T13:57:14.022Z",
+        "note": "Task dibuat oleh manajer"
+      }
+    ]
+  },
+  {
+    "id": 1780398221399.78,
+    "planId": 1780398221398,
+    "noSPT": "0003/02/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "cabangPlan": "SO BBT",
+    "cabangArea": "RIAU",
+    "tanggalPlan": "2026-06-02",
+    "assignedTo": "auditor1",
+    "isKepala": true,
+    "tglMulai": "2026-06-03",
+    "tglSelesai": "2026-06-04",
+    "fileName": "template_nilai_AM-A Sore_xlsx (1).xlsx",
+    "catatan": "",
+    "status": "selesai",
+    "submittedAt": "2026-06-02T11:53:53.137Z",
+    "approvedAt": "2026-06-02T11:55:01.364Z",
+    "approvedBy": "coo1",
+    "reviewNote": "",
+    "statusLog": [
+      {
+        "status": "pending",
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "at": "2026-06-02T11:03:41.399Z",
+        "note": "Task dibuat oleh manajer"
+      },
+      {
+        "status": "submitted",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-02T11:53:00.251Z",
+        "note": ""
+      },
+      {
+        "status": "koord_rejected",
+        "by": "koordinator1",
+        "byName": "Hendra Wijaya",
+        "at": "2026-06-02T11:53:36.766Z",
+        "note": ""
+      },
+      {
+        "status": "submitted",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-02T11:53:53.138Z",
+        "note": ""
+      },
+      {
+        "status": "koord_approved",
+        "by": "koordinator1",
+        "byName": "Hendra Wijaya",
+        "at": "2026-06-02T11:53:58.902Z",
+        "note": ""
+      },
+      {
+        "status": "manajer_approved",
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "at": "2026-06-02T11:54:36.025Z",
+        "note": ""
+      },
+      {
+        "status": "coo_approved",
+        "by": "coo1",
+        "byName": "Ir. Susanto",
+        "at": "2026-06-02T11:55:01.364Z",
+        "note": ""
+      },
+      {
+        "status": "audit_started",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-02T11:56:02.735Z",
+        "note": ""
+      },
+      {
+        "status": "in_progress",
+        "by": "ajo",
+        "byName": "Ajo",
+        "at": "2026-06-03T01:38:49.857Z",
+        "note": ""
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-05T08:46:42.966Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      },
+      {
+        "status": "audit_started",
+        "by": "admin",
+        "byName": "Administrator",
+        "at": "2026-06-05T08:48:53.439Z",
+        "note": "[RESET oleh Administrator (admin)] selesai → audit_started. Alasan: adanya perbaikan"
+      },
+      {
+        "status": "in_progress",
+        "by": "ajo",
+        "byName": "Ajo",
+        "at": "2026-06-05T08:52:01.874Z",
+        "note": ""
+      },
+      {
+        "status": "selesai",
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "at": "2026-06-05T08:52:41.638Z",
+        "note": "Audit ditutup oleh Kepala Tim"
+      }
+    ],
+    "auditStartedAt": "2026-06-02T11:56:02.735Z",
+    "cabangStartedAt": "2026-06-05T08:52:01.874Z",
+    "selesaiAt": "2026-06-05T08:52:41.638Z",
+    "resetAt": "2026-06-05T08:48:53.439Z",
+    "resetBy": "admin",
+    "resetReason": "adanya perbaikan"
+  },
+  {
+    "id": 1780398221399.164,
+    "planId": 1780398221398,
+    "noSPT": "0003/02/06/2026/SPT-IAT",
+    "jenisAudit": "Audit",
+    "cabangPlan": "SO BBT",
+    "cabangArea": "RIAU",
+    "tanggalPlan": "2026-06-02",
+    "assignedTo": "auditor2",
+    "isKepala": false,
+    "tglMulai": "",
+    "tglSelesai": "",
+    "fileName": "",
+    "catatan": "",
+    "status": "pending",
+    "submittedAt": "",
+    "approvedAt": "",
+    "approvedBy": "",
+    "reviewNote": "",
+    "statusLog": [
+      {
+        "status": "pending",
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "at": "2026-06-02T11:03:41.399Z",
+        "note": "Task dibuat oleh manajer"
+      }
+    ]
+  },
+  {
+    "id": 1780676475205,
+    "planId": 1780676475205,
+    "isMandiri": true,
+    "noAM": "0002/06/2026/KAS-AM",
+    "jenisMandiri": "KAS",
+    "jenisLabel": "Kas",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO TPP",
+    "unitUsaha": "SO TPP",
+    "assignedTo": "so01",
+    "isKepala": true,
+    "status": "selesai",
+    "tglMulai": "2026-06-05",
+    "tglSelesai": "2026-06-06",
+    "createdBy": "so01",
+    "createdAt": "2026-06-05T16:21:15.205Z"
+  },
+  {
+    "id": 1780759182636,
+    "planId": 1780759182636,
+    "isMandiri": true,
+    "noAM": "0002/06/2026/SMH-AM",
+    "jenisMandiri": "SMH",
+    "jenisLabel": "Unit SMH",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO TPP",
+    "unitUsaha": "SO TPP",
+    "assignedTo": "so01",
+    "isKepala": true,
+    "status": "in_progress",
+    "tglMulai": "2026-06-06",
+    "tglSelesai": null,
+    "createdBy": "so01",
+    "createdAt": "2026-06-06T15:19:42.636Z"
+  },
+  {
+    "id": 1780883653377,
+    "planId": 1780883653377,
+    "isMandiri": true,
+    "noAM": "0003/06/2026/SMH-AM",
+    "jenisMandiri": "SMH",
+    "jenisLabel": "Unit SMH",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO BBT",
+    "unitUsaha": "SO BBT",
+    "assignedTo": "ajo",
+    "isKepala": true,
+    "status": "in_progress",
+    "tglMulai": "2026-06-08",
+    "tglSelesai": null,
+    "createdBy": "ajo",
+    "createdAt": "2026-06-08T01:54:13.377Z"
+  },
+  {
+    "id": 1780883835889,
+    "planId": 1780883835889,
+    "isMandiri": true,
+    "noAM": "0004/06/2026/SERTIJAB_KASIR-AM",
+    "jenisMandiri": "SERTIJAB_KASIR",
+    "jenisLabel": "Sertijab Kasir",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO BBT",
+    "unitUsaha": "SO BBT",
+    "assignedTo": "ajo",
+    "isKepala": true,
+    "status": "in_progress",
+    "tglMulai": "2026-06-08",
+    "tglSelesai": null,
+    "createdBy": "ajo",
+    "createdAt": "2026-06-08T01:57:15.889Z"
+  },
+  {
+    "id": 1780891041414,
+    "planId": 1780891041414,
+    "isMandiri": true,
+    "noAM": "0005/06/2026/KAS-AM",
+    "jenisMandiri": "KAS",
+    "jenisLabel": "Kas",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO BBT",
+    "unitUsaha": "SO BBT",
+    "assignedTo": "ajo",
+    "isKepala": true,
+    "status": "in_progress",
+    "tglMulai": "2026-06-08",
+    "tglSelesai": null,
+    "createdBy": "ajo",
+    "createdAt": "2026-06-08T03:57:21.414Z"
+  },
+  {
+    "id": 1780891397225,
+    "planId": 1780891397225,
+    "isMandiri": true,
+    "noAM": "0006/06/2026/SERTIJAB_ADH-AM",
+    "jenisMandiri": "SERTIJAB_ADH",
+    "jenisLabel": "Sertijab ADH",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO BBT",
+    "unitUsaha": "SO BBT",
+    "assignedTo": "ajo",
+    "isKepala": true,
+    "status": "in_progress",
+    "tglMulai": "2026-06-08",
+    "tglSelesai": null,
+    "createdBy": "ajo",
+    "createdAt": "2026-06-08T04:03:17.225Z"
+  },
+  {
+    "id": 1780891452469,
+    "planId": 1780891452469,
+    "isMandiri": true,
+    "noAM": "0007/06/2026/SMH-AM",
+    "jenisMandiri": "SMH",
+    "jenisLabel": "Unit SMH",
+    "jenisAudit": "Audit Mandiri",
+    "cabangPlan": "SO BBT",
+    "unitUsaha": "SO BBT",
+    "assignedTo": "ajo",
+    "isKepala": true,
+    "status": "in_progress",
+    "tglMulai": "2026-06-08",
+    "tglSelesai": null,
+    "createdBy": "ajo",
+    "createdAt": "2026-06-08T04:04:12.469Z"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "kas": [
+    "admin",
+    "adm"
+  ],
+  "pemeriksaan-kas": [
+    "admin",
+    "adm"
+  ],
+  "database-smh": [
+    "admin",
+    "adm"
+  ],
+  "pemeriksaan-smh": [
+    "admin"
+  ],
+  "plan-audit": [
+    "admin",
+    "manajer",
+    "koordinator",
+    "coo",
+    "auditor",
+    "so",
+    "csc",
+    "whs"
+  ],
+  "task": [
+    "admin",
+    "manajer",
+    "koordinator",
+    "coo",
+    "auditor",
+    "so",
+    "csc",
+    "whs",
+    "afd"
+  ],
+  "audit": [
+    "admin",
+    "auditor"
+  ],
+  "report-audit": [
+    "admin",
+    "manajer",
+    "koordinator",
+    "coo",
+    "auditor",
+    "so",
+    "csc",
+    "whs",
+    "kasir",
+    "rss",
+    "afd"
+  ],
+  "laporan": [
+    "admin"
+  ],
+  "pengguna": [
+    "admin"
+  ],
+  "pengaturan": [
+    "admin",
+    "manajer"
+  ]
+}

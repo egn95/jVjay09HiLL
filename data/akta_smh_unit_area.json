@@ -1,0 +1,727 @@
+[
+  {
+    "unitUsaha": "SO TPP",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO TDB",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO SGL",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO BNN",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO TKN",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO LSM",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO LGS",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO MBO",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO ALB",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO SPP",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO KTC",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS JNB",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS BKJ",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS SML",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS TTN",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO BDS",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS AGL",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS SBS",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM CND",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM TKU",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SBG MTR",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "KPM MBO",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "KPM SUO",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "KPM RMO",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "LBS H1",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM KSP",
+    "area": "ACEH",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO ARK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO SDR",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO TBS",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO SKH",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO BKN",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO KPR",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO UBT",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO SRM",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO LPK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO FLB",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS PKC",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO AMK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO DRI",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO GRG",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO PGR",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO SLP",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO DMI",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO BBT",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS PJD",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO UJT",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO KAN",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO PRW",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO TBH",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS SPK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS SK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM PKU",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM MPY",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM PKC",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM UKI",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "HM LBD",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "KPM PBR",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "KPM SRK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "KPM SIK",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "CVKJ H1",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "CVSK H1",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "TUKJY H1",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "GJP1 H1",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "GJP2 H1",
+    "area": "RIAU",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO BKG",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO NGY",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO MKG",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO BTC",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS TBN",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "SO TPI",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "POS NTN",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "DIP H1",
+    "area": "KEPRI",
+    "jenis": "H1"
+  },
+  {
+    "unitUsaha": "CSC TPP",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TDB",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SGL",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC LGS",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC MBO",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC ALB",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SPP",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC BKJ",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SML",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC BNN",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TKN",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC LSM",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TTN",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC AGL",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SBS",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "HMS CND",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "KMS RMO",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "KMS MBO",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "SBG SRV",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "LBS H2",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "HMS KSP",
+    "area": "ACEH",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC ARK",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SDR",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TBS",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SKH",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC BKN",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC LPK",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC FLB",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC KPR",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC UBT",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC PKC",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC DRI",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC GRG",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC PGR",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SLP",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC BBT",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC UJT",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC KAN",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC PRW",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC AMK",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SRM",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC PJD",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC SPK",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TBH",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "HMS MPY",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "KMS PBR",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "KMS SRK",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "KMS SIK",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CVKJ H2",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CVSK H2",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "TUKJY H2",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "HMS PKC",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "HMS UKI",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "HMS LBD",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "GJP1 H2",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "GJP2 H2",
+    "area": "RIAU",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC BKG",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC NGY",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC MKG",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC BTC",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TPI",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC TBN",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "CSC NTN",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "DIP H2",
+    "area": "KEPRI",
+    "jenis": "H2"
+  },
+  {
+    "unitUsaha": "WHS PART KIM",
+    "area": "ACEH",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS PART AVIAN",
+    "area": "RIAU",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS PART RKR",
+    "area": "KEPRI",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS PART TPI",
+    "area": "KEPRI",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS UNIT KIM",
+    "area": "ACEH",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS UNIT ARK",
+    "area": "RIAU",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS UNIT AKS",
+    "area": "RIAU",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS UNIT RKR",
+    "area": "KEPRI",
+    "jenis": "WHS"
+  },
+  {
+    "unitUsaha": "WHS UNIT TPI",
+    "area": "KEPRI",
+    "jenis": "WHS"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1780317551324,
+    "planId": "1780274342483",
+    "noSPT": "0001/01/06/2026/SPT-IAT",
+    "unitUsaha": "SO TPP",
+    "jenisAudit": "Audit",
+    "status": "selesai",
+    "steps": {
+      "auditor": {
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "tgl": "2026-06-01",
+        "isi": "kekurangan baterai 5 AH sebanyak 5 pcs",
+        "file": "",
+        "submittedAt": "2026-06-01T13:09:36.702Z"
+      },
+      "unit": {
+        "by": "so01",
+        "byName": "Budi Santoso",
+        "tgl": "2026-06-01",
+        "isi": "dibebankan ke PDI dengan pemotongan remunisasi bulan depan",
+        "file": "",
+        "submittedAt": "2026-06-01T13:10:28.037Z"
+      },
+      "rss": {
+        "by": "rss01",
+        "byName": "Rina Sanjaya",
+        "tgl": "2026-06-01",
+        "isi": "Sesuai rekomendasi SO",
+        "file": "",
+        "submittedAt": "2026-06-01T13:11:26.404Z"
+      },
+      "manajer": {
+        "by": "manajer1",
+        "byName": "Budi Hartono",
+        "tgl": "2026-06-01",
+        "isi": "bebankan ke PDI sepenuhnya",
+        "file": "",
+        "submittedAt": "2026-06-01T13:12:36.876Z"
+      },
+      "afd": {
+        "by": "afd01",
+        "byName": "Ir. Bambang W.",
+        "tgl": "2026-06-01",
+        "isi": "ikut sesuai rekomendasi audit",
+        "file": "",
+        "submittedAt": "2026-06-01T13:33:33.006Z"
+      }
+    }
+  },
+  {
+    "id": 1780328327702,
+    "planId": "1780322234022",
+    "noSPT": "0002/01/06/2026/SPT-IAT",
+    "unitUsaha": "CSC TBS",
+    "jenisAudit": "Audit",
+    "status": "pending_auditor",
+    "steps": {
+      "auditor": null,
+      "unit": null,
+      "rss": null,
+      "manajer": null,
+      "afd": null
+    }
+  },
+  {
+    "id": 1780401372025,
+    "planId": "1780398221398",
+    "noSPT": "0003/02/06/2026/SPT-IAT",
+    "unitUsaha": "SO BBT",
+    "jenisAudit": "Audit",
+    "status": "pending_auditor",
+    "steps": {
+      "auditor": null,
+      "unit": null,
+      "rss": null,
+      "manajer": null,
+      "afd": null
+    }
+  },
+  {
+    "id": 1780706443977,
+    "planId": "1780676475205",
+    "noSPT": "0002/06/2026/KAS-AM",
+    "unitUsaha": "SO TPP",
+    "jenisAudit": "Audit Mandiri — Kas",
+    "status": "pending_unit",
+    "steps": {
+      "auditor": {
+        "by": "auditor1",
+        "byName": "Siti Rahayu",
+        "tgl": "2026-06-06",
+        "isi": "kekurangan baterai 5 Ah",
+        "file": "",
+        "submittedAt": "2026-06-06T02:08:36.021Z"
+      },
+      "unit": null,
+      "rss": null,
+      "manajer": null,
+      "afd": null
+    },
+    "isMandiri": true
+  }
+]
